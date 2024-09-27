@@ -18,7 +18,7 @@ const registration = () => {
         <input type='text' placeholder='enter your surname'/>
         </div>
         < div className='input'>
-            <label>Phone number:</label>
+            <label>Phone:</label>
         <input type='number' placeholder='enter your number' required/>
         </div>
         
